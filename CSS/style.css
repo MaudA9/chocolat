@@ -1,0 +1,35 @@
+
+@import url("link href="https://fonts.googleapis.com/css?family=EB+Garamond|Pacifico&display=swap" rel="stylesheet">");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/chocolat.css");
+
+body {
+	font-family: 'EB Garamond', serif;
+	font-size: 15px;
+	margin: 0px;
+	text-align: center;
+  }
+ h3 {
+	font-weight: bold;
+	font-size: 28px;
+	text-align: center;  }
+
+h2 {
+	font-size: 20px;
+}
+	
+   }
+h1 {
+	 font-family: 'Pacifico', cursive;
+}
+
+	body {
+  background-color: #FCDEA3;
+  background-image: radial-gradient(circle, #FFFF 5%, transparent 10%), radial-gradient(circle, #FFFF 5%, transparent 10%);
+  background-size: 100px 100px;
+  background-position: 0 0, 50px 50px;
+}
+
+/*style.css
